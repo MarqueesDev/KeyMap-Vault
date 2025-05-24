@@ -100,8 +100,6 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
     | Junção horizontal + baixo  |   `┬`   |   Alt + 194   |    
     | Junção horizontal + cima   |   `┴`   |   Alt + 193   |    
     | Cruzamento completo        |   `┼`   |   Alt + 197   |    
-    | Traço horizontal           |   `─`   |   Alt + 196   |
-    └────────────────────────────┴─────────┴───────────────┘
     </pre>
 
 <hr>
