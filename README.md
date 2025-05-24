@@ -101,7 +101,6 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
     | Junção horizontal + cima   |   `┼`   |   Alt + 197   |    
     | Junção horizontal + cima   |   `─`   |   Alt + 196   |    
     └────────────────────────────┴─────────┴───────────────┘    
-
 </pre>
 
 <hr>
