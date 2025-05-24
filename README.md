@@ -238,7 +238,8 @@ Achou algum símbolo útil que não está aqui? Sinta-se livre para abrir um [is
 
 ---
 <div align="left">
-    > Feito com curiosidade e teclas `Alt` 🎹
+
+> Feito com curiosidade e teclas `Alt` 🎹
 </div>
 
 <div align="right">
