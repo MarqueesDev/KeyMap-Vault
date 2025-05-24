@@ -1,7 +1,7 @@
 # KeyMap-Vault
 Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma tabela, ou usar aquele símbolo específico, mas nunca soube o nome ou o atalho certo pra isso.  Tudo aqui foi pensado pra ser simples, direto e visual
 
-<blockquote style="border-left: 4px solid green; padding-left: 1em;">
+<blockquote style="border-left: 4px solid green; padding-left: 1em; color:green;">
   Pronto pra você copiar e usar no terminal, no código, em documentações ou onde quiser.
 </blockquote>
 
@@ -239,11 +239,11 @@ Achou algum símbolo útil que não está aqui? Sinta-se livre para abrir um [is
 
 ---
 
-Feito com curiosidade e teclas `Alt` 🎹
+> Feito com curiosidade e teclas `Alt` 🎹
 
 
 <div align="right">
-  <strong>🔝 <a href="#keymap-vault" style="color: green">Retornar ao topo</a></strong>
+  <strong><a href="#keymap-vault" style="color: green">🔝 Retornar ao topo</a></strong>
 </div>
 
 </div>
