@@ -102,7 +102,7 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
     | Cruzamento completo        |   `┼`   |   Alt + 197   |    
     | Traço horizontal           |   `─`   |   Alt + 196   |    
     └────────────────────────────┴─────────┴───────────────┘
-    </pre>
+</pre>
 
 <hr>
 
