@@ -226,7 +226,7 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
     | Marca registrada           |   `®`   |   Alt + 0174  |    
     | Copyright                  |   `©`   |   Alt + 0169  |    
     | Cifrão                     |   `$`   |   Alt + 36    |    
-    └────────────────────────────┴─────────┴───────────────┘
+    └────────────────────────────┴─────────┴───────────────┘    
 
 </pre>
 
@@ -237,9 +237,9 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
 Achou algum símbolo útil que não está aqui? Sinta-se livre para abrir um [issue](https://github.com/MarqueesDev/KeyMap-Vault/issues)!
 
 ---
-
-> Feito com curiosidade e teclas `Alt` 🎹
-
+<div align="left">
+    > Feito com curiosidade e teclas `Alt` 🎹
+</div>
 
 <div align="right">
   <strong><a href="#keymap-vault" style="color: green">🔝 Retornar ao topo</a></strong>
