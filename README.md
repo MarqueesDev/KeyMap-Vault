@@ -101,9 +101,7 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
     | Junção horizontal + cima   |   `┴`   |   Alt + 193   |    
     | Cruzamento completo        |   `┼`   |   Alt + 197   |    
     </pre>
-
 <hr>
-
 ## Setas
 <table>
   <thead>
