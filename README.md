@@ -239,7 +239,7 @@ Achou algum símbolo útil que não está aqui? Sinta-se livre para abrir um [is
 ---
 <div align="left">
 
-> Feito com curiosidade e teclas `Alt` 🎹
+>Um repositório para quem já ficou apertando Alt + número sem saber o que ia sair 🎲
 </div>
 
 <div align="right">
