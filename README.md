@@ -141,14 +141,14 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
 ### Exemplo de Setas
 <pre style="display: inline-block; text-align: left; padding: 0; margin: 0; font-family: monospace;">
 
-    ┌────────────────────────────┬─────────────────────────┐
+    ┌────────────────────────────┬─────────────────────────┐    
     |          Nome              | Símbolo |   Alt  Code   |    
     ├────────────────────────────┼─────────┬───────────────┤    
     | Seta para a direita        |   `→`   |   Alt + 26    |    
     | Seta para a esquerda       |   `←`   |   Alt + 27    |    
     | Seta para cima             |   `↑`   |   Alt + 24    |    
     | Seta para baixo            |   `↓`   |   Alt + 25    |    
-    └────────────────────────────┴─────────┴───────────────┘
+    └────────────────────────────┴─────────┴───────────────┘    
     </pre>
 <hr>
 
