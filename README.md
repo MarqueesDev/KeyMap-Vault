@@ -88,20 +88,21 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
 ### Exemplo de Tabela
 <pre style="display: inline-block; text-align: left; padding: 0; margin: 0; font-family: monospace;">
 
-┌────────────────────────────┬─────────────────────────┐    
-|          Nome              | Símbolo |   Alt  Code   |    
-|────────────────────────────┼─────────┬───────────────┤    
-| Canto superior esquerdo    |   `┌`   |   Alt + 218   |    
-| Canto superior direito     |   `┐`   |   Alt + 191   |    
-| Canto inferior esquerdo    |   `└`   |   Alt + 192   |    
-| Canto inferior direito     |   `┘`   |   Alt + 217   |    
-| Junção vertical + direita  |   `├`   |   Alt + 195   |    
-| Junção vertical + esquerda |   `┤`   |   Alt + 180   |    
-| Junção horizontal + baixo  |   `┬`   |   Alt + 194   |    
-| Junção horizontal + cima   |   `┴`   |   Alt + 193   |    
-| Cruzamento completo        |   `┼`   |   Alt + 197   |    
-| Traço horizontal           |   `─`   |   Alt + 196   |
-└────────────────────────────┴─────────┴───────────────┘</pre>
+    ┌────────────────────────────┬─────────────────────────┐    
+    |          Nome              | Símbolo |   Alt  Code   |    
+    |────────────────────────────┼─────────┬───────────────┤    
+    | Canto superior esquerdo    |   `┌`   |   Alt + 218   |    
+    | Canto superior direito     |   `┐`   |   Alt + 191   |    
+    | Canto inferior esquerdo    |   `└`   |   Alt + 192   |    
+    | Canto inferior direito     |   `┘`   |   Alt + 217   |    
+    | Junção vertical + direita  |   `├`   |   Alt + 195   |    
+    | Junção vertical + esquerda |   `┤`   |   Alt + 180   |    
+    | Junção horizontal + baixo  |   `┬`   |   Alt + 194   |    
+    | Junção horizontal + cima   |   `┴`   |   Alt + 193   |    
+    | Cruzamento completo        |   `┼`   |   Alt + 197   |    
+    | Traço horizontal           |   `─`   |   Alt + 196   |
+    └────────────────────────────┴─────────┴───────────────┘
+    </pre>
 
 <hr>
 
