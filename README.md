@@ -87,7 +87,7 @@ Um repositório pra você que sempre quis saber como "escrever" ou desenhar uma 
 
 ### Exemplo de Tabela
 <pre style="display: inline-block; text-align: left; padding: 0; margin: 0; font-family: monospace;">
-    ┌────────────────────────────┬─────────────────────────┐    
+    ┌────────────────────────────┬─────────┬───────────────┐    
     |          Nome              | Símbolo |   Alt  Code   |    
     |────────────────────────────┼─────────┬───────────────┤    
     | Canto superior esquerdo    |   `┌`   |   Alt + 218   |    
